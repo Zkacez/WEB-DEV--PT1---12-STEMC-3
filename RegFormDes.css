@@ -23,7 +23,7 @@ body{
     border: 2px solid rgba(255, 255, 255, 0.2);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     color: white;
-    padding: 30px 40px;
+    padding: 20px 35px;
 
 }
 
@@ -56,9 +56,9 @@ body{
 }
 
 .input-box i{
-    position: absolute;
-    right: 630px;
-    transform: translateY(80%);
+    position: relative;
+    left: 85%;
+    transform: translateY(-35px);
     font-size: 20px;
 }
 
